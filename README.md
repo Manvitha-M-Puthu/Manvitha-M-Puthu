@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" width="75%" src="https://github-readme-stats.vercel.app/api?username=manvitha-m-puthu&show_icons=true&locale=en" alt="manvitha-m-puthu" /></p>
 
-<p><img align="center"  width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=manvitha-m-puthu&" alt="manvitha-m-puthu" /></p>
+
