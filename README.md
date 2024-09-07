@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif">
 
-- 👨‍💻Check out my Portfolio: (https://manvitha-m-puthu.github.io/Portfolio/)
+- 👨‍💻Check out my Portfolio: https://manvithaputhu.netlify.app
 
 - 📫 Reach out to me at **manvithaputhu123@gmail.com**
 
