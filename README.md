@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me at **manvithaputhu123@gmail.com**
 
-- 📄 Resume/CV (https://drive.google.com/file/d/1LedIvRjX9xlLmszw8SbnJbfWEvyQ5hin/view?usp=sharing)
+- 📄 Resume/CV (https://drive.google.com/file/d/1ZiYNN68SeJxwRNqIXFVdSlDY7WycBWXE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
